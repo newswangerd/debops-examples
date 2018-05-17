@@ -1,7 +1,7 @@
-Role Name
-=========
+ansible-role-foo
+================
 
-A brief description of the role goes here.
+No role_name value is set in `meta/main.yml`, so the subdirectory name is considered the role name. However, in this example the subdirectory name contains a '.', so the role name is technically invalid. Both the import and install process should catch and flag this.
 
 Requirements
 ------------
