@@ -1,7 +1,7 @@
 Example
 =======
 
-This role contains an invalid value in meta/main.yml. It should not get imported, nor should it get installed. The role_name field should only contain [a-zA-Z90-9-_] chars.
+This role_name value `meta/main.yml` contains an invalid character. It should not get imported, nor should it get installed. The role_name field should only contain [a-zA-Z90-9-_] chars.
 
 Requirements
 ------------
