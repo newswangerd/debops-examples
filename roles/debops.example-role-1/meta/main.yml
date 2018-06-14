@@ -5,7 +5,7 @@ galaxy_info:
 
 
   # Setting role_name to an invalid value. Role names should only contain [a-zA-Z0-9-_] chars
-  role_name: debops.example
+  role_name: example
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
